@@ -44,7 +44,7 @@ We have seen the temperatures of the first 10 rows of June data in table 1. Look
 - minimum measured temperature degree 64,
 - the maximum measured temperature is 85 degree. 
 
-#### December Temperature Statistics
+#### Table 4. December Temperature Statistics
 <img width="176" alt="Screen Shot 2022-11-08 at 10 48 42 PM" src="https://user-images.githubusercontent.com/26927158/201194813-e6260089-1e64-40e2-ae56-5f09618782c0.png">
 
 We have seen the temperatures of the first 10 rows of June data in table 2. Looking at the month of December in general,
